@@ -1,4 +1,7 @@
 # ReFactor-Challenge
+
+The work consists of refactoring the code, to make it better and easier to read and know where things go.
+
 <img src="file:///C:/Users/Emman/projects/Develop/index.html">
 <img src="./Develop/assets/images/Screen-shot-1.PNG">
 <img src="./assets/images/Screen-shot-2.png">
